@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1605245724 source:g:\yangruitao\c-commonalgorithmanuals\ÅÅĞòËã·¨\Ï£¶ûÅÅĞò\shellsort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1605246379 source:g:\yangruitao\c-commonalgorithmanuals\ÅÅĞòËã·¨\Ï£¶ûÅÅĞò\shellsort\main.cpp
+	<iostream>
+	<array>
+	<cstdlib>
+	<ctime>
+
