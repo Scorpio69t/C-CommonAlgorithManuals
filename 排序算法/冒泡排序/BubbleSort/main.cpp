@@ -7,7 +7,7 @@ using namespace std;
 
 constexpr int SIZE = 10;
 
-void BubbleSort(array<int, SIZE> arr)
+void BubbleSort(array<int, SIZE>& arr)
 {
     int length = arr.size();
     for(int i = 0; i < length; i ++)
